@@ -1,3 +1,4 @@
+// GitHub: EntityPlantt/Kattis
 #include <bits/stdc++.h>
 using namespace std;
 char vowels[6] = {'a', 'e', 'i', 'o', 'u', 'y'};

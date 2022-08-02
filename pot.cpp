@@ -1,3 +1,4 @@
+// GitHub: EntityPlantt/Kattis
 #include <iostream>
 signed int pow(signed int base, unsigned int exponent) {
 	if (exponent == 0) {

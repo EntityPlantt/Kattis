@@ -1,3 +1,4 @@
+// GitHub: EntityPlantt/Kattis
 #include <iostream>
 #include <cmath>
 int min(int a, int b) {

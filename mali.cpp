@@ -1,3 +1,4 @@
+// GitHub: EntityPlantt/Kattis
 #include <bits/stdc++.h>
 using namespace std;
 template <typename Type>

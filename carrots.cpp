@@ -1,3 +1,4 @@
+// GitHub: EntityPlantt/Kattis
 #include <iostream>
 int main() {
     int a;
