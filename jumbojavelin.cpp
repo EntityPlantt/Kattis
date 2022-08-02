@@ -1,5 +1,11 @@
-#include <stdlib.h>
+#include <iostream>
 using namespace std;
-int main() {
-    system("vim");
+main() {
+    int n, t = 1, x;
+    cin >> n;
+    while (n--) {
+        cin >> x;
+        t += --x;
+    }
+    cout << t;
 }
