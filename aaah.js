@@ -1,3 +1,4 @@
+// GitHub: EntityPlantt/Kattis
 var l = null;
 require("readline").createInterface({
 	input: process.stdin,
